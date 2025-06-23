@@ -57,6 +57,8 @@
 }
 
 #bottom-child01{
+  position: relative;
+  left: 0px;
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
